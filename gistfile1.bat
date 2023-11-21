@@ -1,0 +1,1 @@
+cmd /c “adb kill-server&&adb start-server” 
